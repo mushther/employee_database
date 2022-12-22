@@ -1,9 +1,83 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "todos": [
+    {
+      "name": "Hussain",
+      "email": "muttahir513@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "sony",
+      "email": "sony@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "tasleem",
+      "email": "taslim@gamil.com",
+      "id": 3
+    },
+    {
+      "name": "fifa",
+      "email": "fifa@gmail.com",
+      "id": 4
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "accept": [
+    {
+      "name": "sony",
+      "email": "sony@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Hussain",
+      "email": "muttahir513@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Hussain",
+      "email": "muttahir513@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "barman125",
+      "email": "barman@gmail.com",
+      "id": 4
+    }
   ],
-  "profile": { "name": "typicode" }
+  "reject": [
+    {
+      "name": "sony",
+      "email": "sony@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "barman",
+      "email": "barman@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "tasleem",
+      "email": "taslim@gamil.com",
+      "id": 3
+    },
+    {
+      "name": "Naveet",
+      "email": "nvneet513@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Newline",
+      "email": "newLine@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "fifa",
+      "email": "fifa@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "newLine",
+      "email": "newLine@gmail.com",
+      "id": 7
+    }
+  ]
 }
